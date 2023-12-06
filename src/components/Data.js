@@ -33,7 +33,7 @@ export const Data = () => {
     <div>
         {
           !isload ?( 
-          <h1 onClick={()=>setisload(true)} className='text-2xl font-bold'>Start Your Quiz</h1>
+          <h1 onClick={()=>setisload(true)} className='text-2xl font-bold'>Click here Start Your Quiz</h1>
           ) : state.idx<10 && (<div>
             <h1  className='text-2xl font-bold'>Quiz Stared</h1>
             <h1 className='font-bold'>You need to complete test In <span className={`font-bold ${timer > 10 && 'text-green-600'} ${timer <= 10 && 'text-red-600'}`}>{timer}</span> Sec</h1>
