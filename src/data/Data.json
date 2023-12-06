@@ -1,0 +1,123 @@
+{
+    "response_code": 0,
+    "results": [
+    {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "In the TV show &quot;Mad Men&quot;, what was Donald Draper&#039;s birthname?",
+    "correct_answer": "Richard &quot;Dick&quot; Whitman",
+    "incorrect_answers": [
+    "Donald Draper",
+    "John Ashbury",
+    "Michael &quot;Mikey&quot; Wilhelm"
+    ]
+    },
+    {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Video Games",
+    "question": "Which team won the &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; Invitational Event February 2017 in the PC Category?",
+    "correct_answer": "Continuum",
+    "incorrect_answers": [
+    "GIFU",
+    "Santos Dexterity",
+    "eRa Eternity"
+    ]
+    },
+    {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Computers",
+    "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+    "correct_answer": "&lt;marquee&gt;&lt;/marquee&gt;",
+    "incorrect_answers": [
+    "&lt;scroll&gt;&lt;/scroll&gt;",
+    "&lt;move&gt;&lt;/move&gt;",
+    "&lt;slide&gt;&lt;/slide&gt;"
+    ]
+    },
+    {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+    "correct_answer": "Boston Red Sox",
+    "incorrect_answers": [
+    "New York Mets",
+    "Baltimore Orioles",
+    "Milwaukee Brewers"
+    ]
+    },
+    {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science: Computers",
+    "question": "What amount of bits commonly equals one byte?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+    "1",
+    "2",
+    "64"
+    ]
+    },
+    {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Politics",
+    "question": "Which of the following United States senators is known for performing a 24-hour long filibuster?",
+    "correct_answer": "Strom Thurmond",
+    "incorrect_answers": [
+    "Roy Blunt",
+    "John Barrasso",
+    "Chuck Schumer"
+    ]
+    },
+    {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Television",
+    "question": "Which of these Bojack Horseman characters is a human?",
+    "correct_answer": "Todd Chavez",
+    "incorrect_answers": [
+    "Lennie Turtletaub",
+    "Princess Carolyn",
+    "Tom Jumbo-Grumbo"
+    ]
+    },
+    {
+    "type": "boolean",
+    "difficulty": "medium",
+    "category": "Science: Gadgets",
+    "question": "The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+    "True"
+    ]
+    },
+    {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "History",
+    "question": "What does the United States of America celebrate during the 4th of July?",
+    "correct_answer": "The signing of the Declaration of Independence",
+    "incorrect_answers": [
+    "The anniversary of the Battle of Gettysburg",
+    "The crossing of the Delaware River",
+    "The ratification of the Constitution"
+    ]
+    },
+    {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "On a dartboard, what number is directly opposite No. 1?",
+    "correct_answer": "19",
+    "incorrect_answers": [
+    "20",
+    "12",
+    "15"
+    ]
+    }
+    ]
+    }
